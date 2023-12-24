@@ -5,7 +5,7 @@ This project is part of the Prodigy Infotech Machine Learning Internship, focusi
 ## Author
 
 - **Author:** Muhammad Haroon Shahzad
-- **GitHub:** [awais-akhter](https://github.com/HaroonMalik771)
+- **GitHub:** [Haroon Malik](https://github.com/HaroonMalik771)
 
 ## Problem Statement
 
